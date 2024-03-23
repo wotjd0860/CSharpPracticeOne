@@ -12,3 +12,6 @@
 ## Studies
 ### [2024-03-22]
 - Started learning C# from 'freecodecamp' and 'MS learn'
+
+### [2024-03-23]
+- Finished "Write Your First Code Using C#" on freecodecamp
