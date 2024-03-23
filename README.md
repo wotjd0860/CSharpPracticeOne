@@ -9,4 +9,6 @@
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 
-## Impression
+## Studies
+### [2024-03-22]
+- Started learning C# from 'freecodecamp' and 'MS learn'
