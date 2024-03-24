@@ -20,3 +20,4 @@
 - Changed IDE from Visual Studio to VSCode
 - Recreated project in VSCode
 - Installed C# Dev kit extention.
+- Build command : dotnet build / excution command : dotnet run
