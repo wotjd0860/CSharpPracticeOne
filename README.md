@@ -21,3 +21,7 @@
 - Recreated project in VSCode
 - Installed C# Dev kit extention.
 - Build command : dotnet build / excution command : dotnet run
+
+### [2024-03-24]
+- Studied about Array in C#
+- Recaped what I studied before.
