@@ -25,3 +25,7 @@
 ### [2024-03-24]
 - Studied about Array in C#
 - Recaped what I studied before.
+
+### [2024-03-25]
+- Finished "Create and Run Simple C# Console Applications" course in freecodecamp site.
+- Learned how to make another '.cs' file and use this in 'Progeam.cs' file.
