@@ -29,3 +29,6 @@
 ### [2024-03-25]
 - Finished "Create and Run Simple C# Console Applications" course in freecodecamp site.
 - Learned how to make another '.cs' file and use this in 'Progeam.cs' file.
+
+### [2024-03-27]
+- Completed "Add Logic to C# Console Applications" course in freecodecamp site.
