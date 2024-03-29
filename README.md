@@ -32,3 +32,6 @@
 
 ### [2024-03-27]
 - Completed "Add Logic to C# Console Applications" course in freecodecamp site.
+
+### [2024-03-28 ~ ]
+- Completed "Work with Variable Data in C# Console Applications" course in freecodecamp site.
