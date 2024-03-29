@@ -1,5 +1,3 @@
-﻿using CourseTo2;
-using Course3;
-using Course4;
+﻿using Course5;
 
-Course4.Functions.stringFormattingPractice();
+Course5.Functions.DisplayRandomNumbers();
