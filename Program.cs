@@ -1,3 +1,3 @@
 ﻿using Course5;
 
-Course5.Functions.DisplayRandomNumbers();
+Course5.Functions.guidedProject();
