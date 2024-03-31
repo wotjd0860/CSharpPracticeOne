@@ -1,3 +1,3 @@
-﻿using Course5;
+﻿using Course6;
 
-Course5.Functions.guidedProject();
+Course6.Functions.exceptionThrowing();

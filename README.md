@@ -1,7 +1,7 @@
 # C# Practice One
 
 ## General Information
-- Period : 2024-03-21 ~
+- Period : 2024-03-21 ~ 2024-03-30
 - Member : Jaeseong Park
 
 ## Skills
@@ -36,3 +36,7 @@
 ### [2024-03-28 ~ 2024-03-29]
 - Completed "Work with Variable Data in C# Console Applications" course in freecodecamp site.
 - Completed "Create Methods in C# Console Applications" course in freecodecamp site.
+
+### [2024-03-30]
+- Completed "Debug C# Console Applications" course in freecodecamp site.
+- Completed total course of C# in freecodecamp site.
